@@ -1,0 +1,21 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A modern implementation of the classic Snake game",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snake",
+    "game",
+    "javascript",
+    "html5"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+} 
